@@ -6,7 +6,8 @@
 ## Professional Experience
 
 ***Lumate - GIS Data Consultant*** _(June 2020 - Present)_ 
-- Works on GIS analysis methodology for analyzing cellphone data stream for big data distribution company.
+- Designs analysis methodology for analyzing cellphone data stream for big data distribution company.
+- Advises on AWS aritecture for big data cell phone analysis project.
 
 
 ***Metro Saint Louis -  Senior GIS Data Analyst/Developer*** _(March 2018- Present)_
@@ -42,7 +43,7 @@
 - Used Python & SQL to build data pipeline to periodically pull data from a database and convert, enrich and analyze data.
 - Data structure was designed to work with a ArcGIS server database to feed into operational databases. 
 ### JavaScript:
-Donald Trump Approval Dashboard
+***Donald Trump Approval Dashboard***
 - React & D3 dashboard visualizing Donald Trump approval ratings in comparison to New York Times articles and Tweets.
 
 ***Portfolio Website***
