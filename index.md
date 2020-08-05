@@ -3,10 +3,6 @@
 
  Mapping | Data Scientist | Developer 
 
-<div id="webaddress">
-<p><a href="mailto:walter.k.jenkins@gmail.com>walter.k.jenkins@gmail.com</a> | <a href="git.walterkjenkins.com">GitHub</a> | <a href="linkedin.walterkjenkins.com">LinkedIn</a> | <a href="twitter.walterkjenkins.com">Twitter</a></p>
-</div>
-
 ## Professional Experience
 
 ***Lumate - GIS Data Consultant*** _(June 2020 - Present)_ 
