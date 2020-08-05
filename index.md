@@ -1,13 +1,10 @@
-# Walter Jenkins
-🌐 St. Louis, MO
+# Walter K Jenkins
+***[website](walterkjenkins.com) | [email](mailto:walter.k.jenkins@gmail.com) | [github](git.walterkjenkins.com) | [linkedin](linkedin.walterkjenkins.com) | [twitter](twitter.walterkjenkins.com)***
 
-
-Mapping | Data Vizualization | Operational Workflows
-
-
+ Mapping | Data Scientist | Developer 
 
 <div id="webaddress">
-<p><a href="walter.k.jenkins@gmail.com>walter.k.jenkins@gmail.com</a> | <a href="git.walterkjenkins.com">GitHub</a> | <a href="linkedin.walterkjenkins.com">LinkedIn</a> | <a href="twitter.walterkjenkins.com">Twitter</a></p>
+<p><a href="mailto:walter.k.jenkins@gmail.com>walter.k.jenkins@gmail.com</a> | <a href="git.walterkjenkins.com">GitHub</a> | <a href="linkedin.walterkjenkins.com">LinkedIn</a> | <a href="twitter.walterkjenkins.com">Twitter</a></p>
 </div>
 
 ## Professional Experience
@@ -37,8 +34,8 @@ Mapping | Data Vizualization | Operational Workflows
 - Built sustainable methods to process data for new complicated tasks to import into SQL Enterprise applications. 
 
 
-## 🖥️ DEVELOPMENT PROJECTS: 
-### 🐍 Python:
+## DEVELOPMENT PROJECTS: 
+### Python:
 ***GTFS-RT InfluxDB Data Logger***
 - Used Python and InfluxDB to log Realtime data for both Trips Updates and Vehicle positions on Raspberry Pi.
 
@@ -78,6 +75,6 @@ Survey123 COVID-19 Inventory Management Application
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2020 -->
 
 
