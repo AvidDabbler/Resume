@@ -10,78 +10,69 @@ Mapping | Data Vizualization | Operational Workflows
 <p><a href="walter.k.jenkins@gmail.com>walter.k.jenkins@gmail.com</a> | <a href="git.walterkjenkins.com">GitHub</a> | <a href="linkedin.walterkjenkins.com">LinkedIn</a> | <a href="twitter.walterkjenkins.com">Twitter</a></p>
 </div>
 
+## Professional Experience
 
-## Currently
-
-Working at Metro St Louis Transit as a Senior Data Analyst as a GIS Specialist. I build beautifully intunitive applications and maps out of horribly chaotic data. 
-Current hobbies include: Cooking, Working on personal coding projects, dogs and wearing a mask.
-
-### Specialized in
-
-I have worked in local government for 8 years working specifically with transit and urban development. I have given multiple talks on getting transit agencies to get the most out of their data
+***Lumate - GIS Data Consultant*** _(June 2020 - Present)_ 
+- Works on GIS analysis methodology for analyzing cellphone data stream for big data distribution company.
 
 
-### Professional Interests
-
-Human transportation, urban planning, equitable development, land use policies, iot and data science.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+***Metro Saint Louis -  Senior GIS Data Analyst/Developer*** _(March 2018- Present)_
+- Designed and developed a JavaScript application to assess, install and document the install of 4,000 bus stops.
+- Put together Emergency Response JavaScript Mobile Friendly Applications for cleaning vehicles for Covid-19 efforts. 
+- Designed and configured a mobile and desktop solution to effectively assess the reinstallation of 4,000 bus stops.
+- Empower non-technical employees to adopt the usage of ArcGIS Online Apps through user lead design and training.
+- Built a Python analysis script to analyze and compare scheduling information to population metrics for government reporting
+- Built an ETL process to transform spatial information, into geospatial data that would keep the Open Data portal up to date.
+- Formalized the basemap update process using Python to automate the transformation into an internally hosted application.
 
 
+***City of Charlotte - Transit Data Planner*** _(June 2016- February 2018)_
+- Designed ridership analysis queries in SQL for data inquires and route analysis for planning and communications.
+- Presented at National Transit Tech conference in Atlanta about a data analysis technique designed for performance measures. 
+- Automated Origin/Destination data processing, visualization and calculated commute shed of bus routing. 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+***PART – Transportation Planner***	_(June 2012 - June 2016)_
+- Successfully executed and planned analysis programs to significantly improve the efficiency of 2 bus routes. 
+- Spearheaded the geographical documentation of PART’s route alignments and stop locations in ArcGIS. 
+- Built sustainable methods to process data for new complicated tasks to import into SQL Enterprise applications. 
 
 
-## Occupation
+## 🖥️ DEVELOPMENT PROJECTS: 
+### 🐍 Python:
+***GTFS-RT InfluxDB Data Logger***
+- Used Python and InfluxDB to log Realtime data for both Trips Updates and Vehicle positions on Raspberry Pi.
 
-`1600`
-__Royal Mint__, London
+***GTFS-RT Vizualization***
+- Processed and Realtime data feed using Python and Leaflet to visualize Realtime Locations of Metro St Louis buses
 
-- Warden
-- Minted coins
+***Data Pipeline Script***
+- Used Python & SQL to build data pipeline to periodically pull data from a database and convert, enrich and analyze data.
+- Data structure was designed to work with a ArcGIS server database to feed into operational databases. 
+### JavaScript:
+Donald Trump Approval Dashboard
+- React & D3 dashboard visualizing Donald Trump approval ratings in comparison to New York Times articles and Tweets.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+***Portfolio Website***
+- Site is written in React and pulls data from GitHub, my Gatsby Blog RSS feed, and Metro St Louis’ vehicle’s GPS locations. 
+
+***Bus Stop Install Assessment Application***
+- Created a mobile friendly JavaScript application to manage assessment and install of installing 4,000 bus stops. 
+Survey123 COVID-19 Inventory Management Application
+- Created a mobile friendly JavaScript application to manage COVID-19 emergency product requests and inventory.
+   Title VI Analysis & Processing
+- Translated federal regulations into Python script to allow for transit agency to check socioeconomic compliance.
+
+***Backyard Chickens***
+- Wrote up the St. Louis regulations in JavaScript logic that calculates the amount of chickens based on the fence to coop ratio.
+- Guided team on application design, data sources / formatting and made sure participants all felt involved in the process.
+
+## TECHNOLOGIES:
+- Python (2 years)  – Proficient in analysis using Pandas, ArcPy and system management.
+- SQL (4 years) – Proficient in analyzing, maintaining data, and designing statistical and PostGIS queries in MS/Oracle.
+- JavaScipt (2 years) – Working knowledge of frontend development using DOM manipulation and ES6 practices.
+- Bash/Command  (1 year) – Comfortable following documentation working in the command line to manage systems.
+- AWS (<1 year) – Worked with s3, CodePipeline and CloudFront to host and manage website connected through GitHub.
+
 
 
 
