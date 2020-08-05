@@ -1,7 +1,3 @@
----
-layout: cv
-title: Walter Jenkins' Resume
----
 # Walter Jenkins
 🌐 St. Louis, MO
 
