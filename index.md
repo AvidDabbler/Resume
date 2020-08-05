@@ -1,28 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Walter Jenkins' Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Walter Jenkins
+🌐 St. Louis, MO
+
+
+Mapping | Data Vizualization | Operational Workflows
+
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<p><a href="walter.k.jenkins@gmail.com>walter.k.jenkins@gmail.com</a> | <a href="git.walterkjenkins.com">GitHub</a> | <a href="linkedin.walterkjenkins.com">LinkedIn</a> | <a href="twitter.walterkjenkins.com">Twitter</a></p>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working at Metro St Louis Transit as a Senior Data Analyst as a GIS Specialist. I build beautifully intunitive applications and maps out of horribly chaotic data. 
+Current hobbies include: Cooking, Working on personal coding projects, dogs and wearing a mask.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I have worked in local government for 8 years working specifically with transit and urban development. I have given multiple talks on getting transit agencies to get the most out of their data
 
 
-### Research interests
+### Professional Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Human transportation, urban planning, equitable development, land use policies, iot and data science.
 
 
 ## Education
