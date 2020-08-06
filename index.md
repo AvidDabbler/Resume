@@ -2,8 +2,6 @@
 
 ***[website](walterkjenkins.com) | [email](mailto:walter.k.jenkins@gmail.com) | [github](git.walterkjenkins.com) | [linkedin](linkedin.walterkjenkins.com) | [twitter](twitter.walterkjenkins.com)***
 
- Mapping | Data Scientist | Developer 
-
 ## Professional Experience
 
 ***[Lumate](http://www.lumate.com/) - GIS Data Consultant*** _(June 2020 - Present)_ 
