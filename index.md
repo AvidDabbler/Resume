@@ -62,6 +62,34 @@ Survey123 COVID-19 Inventory Management Application
 - Bash/Command  (1 year) – Comfortable following documentation working in the command line to manage systems.
 - AWS (<1 year) – Worked with s3, CodePipeline and CloudFront to host and manage website connected through GitHub.
 
+## SPEAKING ROLES / PRESENTATIONS: 
+- St Louis Users Group (GIS): Enterprise ETL with ArcPy and Visualizing Vehicles with GTFS-RT - 04/2020    
+- St Louis Users Group (GIS): Metro St Louis Enterprise Implementation and Projects - 10/2019
+- Remix Conference 2017: The Holistic Approach to System Wide Planning - 10/2017
+- 2016 NCPTA Conference: Bus Schedules for the 21st Century - 06/2016
+- NCMPO & NCGIS: The Sidewalk Doesn't End: Using Open Data Standards	05/2016 & 02/2017
+- FOSS4GNA 2016: Introduction to GTFS: The Standardized Transit Data Feed	05/2016
+
+## HACKATHONS: 
+***Open Data Day 2020***
+- Built out Python process for working with Realtime Bus and stop arrival data to include route attribute information.
+- Used Leaflet JavaScript API to import routes
+***Health Equity Hackathon***
+- Worked on a team to analyze health information data to train Natural Language Processor, AWS Comprehend.
+- Built a frontend application that allows transit users to submit a request for pickup via Call-a-Ride.
+***SCIRA Hackathon***											
+- Built data structure and designed how to collect and distribute closed streets Open311 standard for the city.
+- Wrote spatial queries using PostGIS for a custom road closure application that would append streets to database. 
+
+ ## LIBRARIES:
+- ArcGIS JavaScript API (Web Mapping)
+- ArcGIS Python API (GIS Data Processing)
+- MapBox GL API
+- Leaflet
+- GitHub API
+- D3
+
+
 
 
 
