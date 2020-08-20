@@ -40,7 +40,6 @@
 - Data structure was designed to work with a ArcGIS server database to feed into operational databases. 
 
 ### JavaScript:
-
 ***[Donald Trump Approval Dashboard](https://www.walterkjenkins.com/trump-approval/)***
 - React & D3 dashboard visualizing Donald Trump approval ratings in comparison to New York Times articles and Tweets.
 
